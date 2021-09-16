@@ -6,7 +6,7 @@ namespace Algo6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           // здесь будет выполненное дз
         }
     }
 }
